@@ -1,0 +1,24 @@
+{
+  "name": "hello-heroku-nodejs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazuhira-r/hello-heroku-nodejs-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazuhira-r/hello-heroku-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/kazuhira-r/hello-heroku-nodejs-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
